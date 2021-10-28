@@ -1,11 +1,11 @@
 {
     "java.project.sourcePaths": [
-        "For Loops",
+        "house",
         "TriangleCalculator",
         "Rounding",
         "Lossless Data Compression",
-        "house",
         "Gamedev math",
-        "Cards"
+        "For Loops",
+        "Quadratic Model"
     ]
 }
