@@ -2,10 +2,15 @@
     "java.project.sourcePaths": [
         "house",
         "TriangleCalculator",
+        "Sorting part 2",
+        "Sorting Array",
+        "Shortest Path",
         "Rounding",
+        "RPS",
+        "Quadratic Model",
         "Lossless Data Compression",
         "Gamedev math",
         "For Loops",
-        "Quadratic Model"
+        "Interface"
     ]
 }
